@@ -1,4 +1,4 @@
-# Hi, I'm Willy.
+# Hi, I'm Guille.
 
 <a href="https://discord.com/users/356461130560045067" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/356461130560045067?bg=1f1f1f&borderRadius=5px">
@@ -12,4 +12,4 @@ I'm currently studying **Software Development** and am passionate about learning
 
 Aside from coding, music is a big part of my life. I especially enjoy playing bass.
 
-Check out my personal website: [willydev.github.io](https://willydev.github.io)
+Check out my personal website: [guillejabase.github.io](https://guillejabase.github.io)
