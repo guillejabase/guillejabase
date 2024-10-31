@@ -11,3 +11,5 @@
 I'm currently studying **Software Development** and am passionate about learning and growing as a developer.
 
 Aside from coding, music is a big part of my life. I especially enjoy playing bass.
+
+Check out my personal website: [willydev.github.io](https://willydev.github.io)
