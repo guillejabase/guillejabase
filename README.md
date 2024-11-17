@@ -4,7 +4,7 @@
 	<img align="right" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/356461130560045067?theme=dark&bg=2b2d31&showDisplayName=true&animated=false">
 </a>
 
-I'm 21 years old and currently studying **Software Development** and am passionate about learning and growing as a developer.
+I'm 21 years old. I'm currently studying **Software Development** and am passionate about learning and growing as a developer.
 
 ---
 
