@@ -26,6 +26,3 @@ I'm currently studying **software development** and am passionate about learning
 
 - [![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
   [![Visual Studio 2022](https://shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge)](https://www.mongodb.com/es)
-</br>
-
-Check out my personal website: [guillejabase.github.io](https://guillejabase.github.io)
