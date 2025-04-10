@@ -1,14 +1,9 @@
 # Hey, I'm Guille.
-
-<a href="https://discord.com/users/356461130560045067" target="_blank">
-	<img align="right" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/356461130560045067?theme=dark&bg=2b2d31&showDisplayName=true&animated=false">
-</a>
-
 I'm 21 years old. I'm currently studying **Software Development** and am passionate about learning and growing as a developer.
 
 ---
 
-### Languages and Tools
+### Skills
 
 - [![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge)](https://www.typescriptlang.org/)
   [![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)](https://www.javascript.com/)
@@ -19,9 +14,12 @@ I'm 21 years old. I'm currently studying **Software Development** and am passion
 
 - [![C#](https://shields.io/badge/C%23-7453DE?style=for-the-badge)](https://dotnet.microsoft.com/es-es/languages/csharp)
   [![ADO.NET](https://shields.io/badge/ADO.NET-512BD4?style=for-the-badge)](https://learn.microsoft.com/es-es/dotnet/framework/data/adonet/)
+  [![ASP.NET](https://shields.io/badge/ASP.NET-512BD4?style=for-the-badge)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+  [![Web API](https://shields.io/badge/WebAPI-512BD4?style=for-the-badge)](https://learn.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-9.0&tabs=visual-studio)
+  [![Blazor](https://shields.io/badge/Blazor-512BD4?style=for-the-badge)](https://dotnet.microsoft.com/es-es/apps/aspnet/web-apps/blazor)
 
-- [![MySQL](https://shields.io/badge/MYSQL-4479A1?style=for-the-badge)](https://www.mysql.com/)
-  [![MSSQL](https://shields.io/badge/MSSQL-CC2927?style=for-the-badge)](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
+- [![SQL Server](https://shields.io/badge/MSSQL-CC2927?style=for-the-badge)](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
+  [![Firebird](https://shields.io/badge/Firebird-E34234?style=for-the-badge)](https://www.firebirdsql.org/)
   [![MongoDB](https://shields.io/badge/MongoDB-47A248?style=for-the-badge)](https://www.mongodb.com/es)
 
 - [![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
