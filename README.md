@@ -25,4 +25,4 @@ I'm currently studying **software development** and am passionate about learning
   [![Python](https://shields.io/badge/Python-306998?style=for-the-badge)](https://www.python.org/)
 
 - [![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
-  [![Visual Studio 2022](https://shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge)](https://www.mongodb.com/es)
+  [![Visual Studio 2022](https://shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge)](https://visualstudio.microsoft.com/es/vs/)
