@@ -1,10 +1,10 @@
-**Hey, I'm Guille.** I'm 21 years old.</br>
-I'm currently studying **software development** and am passionate about learning and growing as a developer.
+**Hey, my name is Guille.** 21 yo.</br>
+I am currently studying **software development** and am passionate about learning and growing as a developer.
 
 ### Skills
 
 - [![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge)](https://www.typescriptlang.org/)
-  [![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)](https://www.javascript.com/)
+  [![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)](https://www.javascript.com/)
   [![HTML5](https://shields.io/badge/HTML5-E34F26?style=for-the-badge)](https://html.com/)
   [![CSS3](https://shields.io/badge/CSS3-1572B6?style=for-the-badge)](https://css-tricks.com/)
   [![Node.js](https://shields.io/badge/Node.js-339933?style=for-the-badge)](https://nodejs.org/en/)
@@ -25,4 +25,4 @@ I'm currently studying **software development** and am passionate about learning
   [![Python](https://shields.io/badge/Python-306998?style=for-the-badge)](https://www.python.org/)
 
 - [![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
-  [![Visual Studio 2022](https://shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge)](https://visualstudio.microsoft.com/es/vs/)
+  [![Visual Studio 2026](https://shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge)](https://visualstudio.microsoft.com/es/vs/)
