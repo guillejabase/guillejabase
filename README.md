@@ -25,4 +25,5 @@ I am currently studying **software development** and am passionate about learnin
   [![Python](https://shields.io/badge/Python-306998?style=for-the-badge)](https://www.python.org/)
 
 - [![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
-  [![Visual Studio 2022](https://shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge)](https://visualstudio.microsoft.com/es/vs/)
+  [![Visual Studio 2026](https://shields.io/badge/Visual%20Studio%202026-5C2D91?style=for-the-badge)](https://visualstudio.microsoft.com/es/vs/)
+  [![Cursor](https://shields.io/badge/Cursor-000000?style=for-the-badge)](https://cursor.com/home)
