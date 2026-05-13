@@ -29,4 +29,4 @@ Desarrollador de software y técnico de PC.
   [![Cursor](https://shields.io/badge/Cursor-000000?style=for-the-badge)](https://cursor.com/home)
   [![Antigravity](https://shields.io/badge/Antigravity-4F8BF8?style=for-the-badge)](https://antigravity.google/)
 
-My web portfolio: [guillejabase.github.io](https://guillejabase.github.io)
+My portfolio web: [guillejabase.github.io](https://guillejabase.github.io)
