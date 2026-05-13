@@ -1,7 +1,7 @@
-**Hey, my name is Guille.** 22 years old.</br>
-I am software developer and PC technician.
+**Mi nombre es Guille.** 22 años.</br>
+Desarrollador de software y técnico de PC.
 
-### Technologies
+### Tecnologías
 
 - [![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge)](https://www.typescriptlang.org/)
   [![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)](https://www.javascript.com/)
