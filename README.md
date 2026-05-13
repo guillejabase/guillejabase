@@ -1,7 +1,7 @@
 **Hey, my name is Guille.** 22 years old.</br>
-I am currently studying **software development** and am passionate about learning and growing as a developer.
+I am software developer and PC technician.
 
-### Skills
+### Technologies
 
 - [![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge)](https://www.typescriptlang.org/)
   [![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)](https://www.javascript.com/)
@@ -27,5 +27,6 @@ I am currently studying **software development** and am passionate about learnin
 - [![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
   [![Visual Studio 2026](https://shields.io/badge/Visual%20Studio%202026-5C2D91?style=for-the-badge)](https://visualstudio.microsoft.com/es/vs/)
   [![Cursor](https://shields.io/badge/Cursor-000000?style=for-the-badge)](https://cursor.com/home)
+  [![Antigravity](https://shields.io/badge/Antigravity-4F8BF8?style=for-the-badge)](https://antigravity.google/)
 
 My web portfolio: [guillejabase.github.io](https://guillejabase.github.io)
