@@ -1,5 +1,6 @@
 **Mi nombre es Guille.** 22 años.</br>
 Desarrollador de software y técnico de PC.
+Actual estudiante de IA y ciencia de datos.
 
 ### Tecnologías
 
